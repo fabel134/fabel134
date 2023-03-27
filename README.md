@@ -1,6 +1,6 @@
 - 👋 Hi, I’m J. Abel a student master degree in Integrative Biology
-- 👀 I’m interested in Bioinformatics and Metagenomics.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Bioinformatics, Metagenomics and Pangenomics.
+- 🌱 I’m currently learning mathematical modeling.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jose.lovaco@cinvestav.mx
 
