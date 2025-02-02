@@ -1,4 +1,4 @@
-- 👋 Hi, I’m J. Abel an MSc student in Integrative Biology.
+- 👋 Hi, I’m J. Abel an MSc in Integrative Biology.
 - 👀 I’m interested in Bioinformatics, Metagenomics, Pangenomics and Metapangenomics.
 - 🌱 I’m currently learning mathematical modeling.
 - 💞️ I’m looking to collaborate on ...
