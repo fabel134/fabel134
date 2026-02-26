@@ -1,8 +1,8 @@
-- 👋 Hi, I’m J. Abel an MSc in Integrative Biology.
+- 👋 Hi, I’m J. Abel an PhD. Student in biological sciences.
 - 👀 I’m interested in Bioinformatics, Metagenomics, Pangenomics and Metapangenomics.
 - 🌱 I’m currently learning mathematical modeling.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jose.lovaco@cinvestav.mx
+- 📫 How to reach me fabel134@unam.edu
 
 <!---
 fabel134/fabel134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
