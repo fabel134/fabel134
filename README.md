@@ -1,4 +1,4 @@
-- 👋 Hi, I’m J. Abel an PhD. Student in biological sciences.
+- 👋 Hi, I’m Jose Abel an PhD. Student in biological sciences.
 - 👀 I’m interested in Bioinformatics, Metagenomics, Pangenomics and Metapangenomics.
 - 🌱 I’m currently learning mathematical modeling.
 - 💞️ I’m looking to collaborate on ...
